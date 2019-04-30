@@ -2,4 +2,4 @@
 
 All instructions within gui. Wait, who doesn't need instructions :)
 
-Virus scan of .exe [here](https://www.virustotal.com/#/file/91df1a1f22587692a2a8341eb50a87c2e8041cdf5b7ba6836443c93cb7c55fad/detection).
+Virus scan of .exe [here](https://www.virustotal.com/#/file/4e74fa266fe4bb7f305805b5feffbf7f043e598b2c14328feba45cfd4524f12d/detection).
